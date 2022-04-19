@@ -1,0 +1,14 @@
+[06:23:39] [User Authenticator #2/INFO]: UUID of player INETDataSurvey2K is cce3da5f-162c-32c2-b64c-c773c1899685
+[06:23:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@33c59527[id=cce3da5f-162c-32c2-b64c-c773c1899685,name=INETDataSurvey2K,properties={},legacy=false] (/163.172.139.143:33474): You are not whitelisted on this server!
+[06:23:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@33c59527[id=cce3da5f-162c-32c2-b64c-c773c1899685,name=INETDataSurvey2K,properties={},legacy=false] (/163.172.139.143:33474) lost connection: You are not whitelisted on this server!
+[06:23:39] [Server thread/WARN]: handleDisconnection() called twice
+[14:12:18] [User Authenticator #3/INFO]: UUID of player ezvacs is 912a324f-d3e1-3527-8447-5efee061059e
+[14:12:18] [Server thread/INFO]: ezvacs[/92.52.181.148:63920] logged in with entity id 646 at ([world]102.48068810461429, 65.0, 30.17629361099759)
+[14:15:26] [Server thread/INFO]: ezvacs has made the advancement [Monster Hunter]
+[14:15:50] [Server thread/INFO]: ezvacs was blown up by Creeper
+[14:18:02] [Server thread/INFO]: ezvacs lost connection: Disconnected
+[14:18:02] [Server thread/INFO]: ezvacs left the game
+[17:10:59] [User Authenticator #4/INFO]: UUID of player ezvacss is df1983fb-7c43-3c17-95c1-1eb1bf9c0f92
+[17:11:00] [Server thread/INFO]: ezvacss[/8.43.121.127:63738] logged in with entity id 2588 at ([world]103.5, 66.0, -0.5)
+[17:12:38] [Server thread/INFO]: ezvacss lost connection: Disconnected
+[17:12:38] [Server thread/INFO]: ezvacss left the game

@@ -1,0 +1,21 @@
+[16:58:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:58:46] [ServerMain/INFO]: Found new data pack file/BlazeandCaves Advancements Pack 1.13.7 (1).zip, loading it automatically
+[16:58:46] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit, BlazeandCaves Advancements Pack 1.13.7 (1).zip
+[16:58:51] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:58:54] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[16:58:54] [Server thread/INFO]: Loading properties
+[16:58:54] [Server thread/INFO]: This server is running CraftBukkit version 3443-Spigot-699290c-2c1e499 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[16:58:55] [Server thread/INFO]: Debug logging is disabled
+[16:58:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:58:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:58:55] [Server thread/INFO]: Default game type: SURVIVAL
+[16:58:55] [Server thread/INFO]: Generating keypair
+[16:58:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:58:55] [Server thread/INFO]: Using epoll channel type
+[16:58:55] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[16:58:55] [Server thread/WARN]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[16:58:55] [Server thread/WARN]: Perhaps a server is already running on that port?
+[16:58:55] [Server thread/INFO]: Stopping server
+[16:58:55] [Server thread/INFO]: Saving players
+[16:58:55] [Server thread/INFO]: Saving worlds
+[16:58:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
